@@ -1,0 +1,3 @@
+package PlayerInfo
+
+class Player

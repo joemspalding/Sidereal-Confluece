@@ -1,0 +1,3 @@
+package Items
+
+interface ITradeable
